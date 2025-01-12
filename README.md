@@ -10,7 +10,7 @@ This is a simple web application built using React.js that allows you to add new
 ## Live Demo
 
 You can try the live demo of this app here:
-[Personal Information App - Live Demo]()
+[Personal Information App - Live Demo](https://directory-react-five.vercel.app/)
 
 
 ### `App.js`
@@ -22,11 +22,6 @@ You can try the live demo of this app here:
 ### `RetrieveInformation.js`
 - Displays the added personal information stored in the app.
 
-Memory updated
-Great! Here's an updated version of your README.md to reflect that you're using Tailwind CSS:
-
-markdown
-Copy code
 # Personal Information App
 
 This is a simple web application built using React.js and styled with Tailwind CSS. It allows you to add new personal information and retrieve it. The app consists of two main components: `AddNewPerson` and `RetrieveInformation`.
